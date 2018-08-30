@@ -70,6 +70,8 @@ nav{
     font-family: 'Work Sans', sans-serif;
     background-color: rgba(0,0,0,0.3);
     height:100vh;
+    width:100%;
+    overflow:hidden;
 }
 .head-section h1{
     padding:20vh 0 0 0;
